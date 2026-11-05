@@ -1,0 +1,4 @@
+# tools/build-index.js가 만드는 파일
+posts/index.json
+
+.DS_Store
